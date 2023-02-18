@@ -1,0 +1,1 @@
+./redirects.sh: line 14: cd: /root: No such file or directory

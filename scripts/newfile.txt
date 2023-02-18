@@ -1,0 +1,18 @@
+Ajay is there 
+ajay from dewari
+
+
+Hello everyone ajay this side 
+you can ask your doubt related to devops and software development 
+
+show welcome back of mychannel letslearn  
+
+we will task about variable 
+
+variable is a entity which is used for storing the value 
+
+we have defined the variable when we want to store the value ,variable act like a addresss of any value or entity 
+
+you know we cannot remember of all values addresss so instead of this we create a variable for our easyness 
+
+

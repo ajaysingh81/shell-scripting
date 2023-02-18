@@ -1,0 +1,15 @@
+cd D --------> cd Desktop ---------> mkdir parent ------> cd parent -----> mkdir sun -------> cd / -------> cd Downloads -------> mkdir sibling -------> cd sibling ------> touch new.txt -------- cd .. ------- cd .. -----> cd Desktop ------> cd parent -----> rmdir sun -------> cd .. -----> cd.. ------ cd Downloads -----> cd sibling -----> vi new.txt
+Vi editor:-
+Note :- here inter the i for inseting in vi editor and insert given text
+
+Multiple Inheritance means that a subclass can inherit from two or more superclasses. C++ allows multiple inheritance, but Java allows only single inheritance, that is, a subclass can inherit only
+
+Note :- after inter the text press ESC button for command line and :wq using this command save the file
+
+cp new.txt /d/Desktop/parent/    :- for copy 
+
+
+Note :- I'm use Bash terminal for this task 
+my folder he
+
+

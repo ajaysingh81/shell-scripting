@@ -1,0 +1,13 @@
+awk 
+alias
+
+
+echo $RANDOM
+
+# other shell variable for checking 
+
+man bash
+
+UID  is also a variable
+
+
